@@ -1,12 +1,12 @@
 Summary:	Advanced Qt/KDE MEncoder frontend
 Summary(pl):	Zaawansowany frontend Qt/KDE dla MEncodera
 Name:		kmenc15
-Version:	0.03
+Version:	0.04
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Multimedia
 Source0:	http://dl.sourceforge.net/kmenc15/%{name}-%{version}.tar.bz2
-# Source0-md5:	986ae4b4b9d96a373af0541c93296769
+# Source0-md5:	64e46a32cd055516b9d82f60836eefcb
 URL:		http://kmenc15.sourceforge.net/
 BuildRequires:	kdelibs-devel >= 3.3
 BuildRequires:	rpmbuild(macros) >= 1.167
