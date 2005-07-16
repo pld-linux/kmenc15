@@ -7,7 +7,6 @@ License:	GPL v2
 Group:		X11/Applications/Multimedia
 Source0:	http://dl.sourceforge.net/kmenc15/%{name}-%{version}.tar.bz2
 # Source0-md5:	64e46a32cd055516b9d82f60836eefcb
-Patch0:		%{name}-%{version}_moc.patch
 URL:		http://kmenc15.sourceforge.net/
 BuildRequires:	kdelibs-devel >= 3.3
 BuildRequires:	rpmbuild(macros) >= 1.167
