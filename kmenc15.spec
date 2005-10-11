@@ -10,7 +10,8 @@ Source0:	http://dl.sourceforge.net/kmenc15/%{name}-%{version}.tar.bz2
 URL:		http://kmenc15.sourceforge.net/
 BuildRequires:	kdelibs-devel >= 3.3
 BuildRequires:	rpmbuild(macros) >= 1.167
-Requires:	mplayer >= 1.0-1.pre7
+Requires:	mencoder
+Requires:	mplayer >= 3:1.0-2.pre7try2.4
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
