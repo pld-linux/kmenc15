@@ -1,0 +1,10 @@
+--- kmenc15-0.04.oryg/wcon.ui	2005-04-04 10:26:03.000000000 +0200
++++ kmenc15-0.04/wcon.ui	2006-04-08 19:31:32.000000000 +0200
+@@ -9520,7 +9520,6 @@
+     <includehint>knuminput.h</includehint>
+     <includehint>knuminput.h</includehint>
+     <includehint>knuminput.h</includehint>
+-    <includehint>khtmlpart.h</includehint>
+     <includehint>knuminput.h</includehint>
+     <includehint>knuminput.h</includehint>
+     <includehint>kurlrequester.h</includehint>
