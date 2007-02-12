@@ -1,5 +1,5 @@
 Summary:	Advanced Qt/KDE MEncoder frontend
-Summary(pl):	Zaawansowany frontend Qt/KDE dla MEncodera
+Summary(pl.UTF-8):   Zaawansowany frontend Qt/KDE dla MEncodera
 Name:		kmenc15
 Version:	0.04
 Release:	1
@@ -22,13 +22,13 @@ and encoding large high quality AVIs capped from TV. It allows cutting
 and merging at exact frames, applying any MPlayer/MEncoder filter,
 with preview.
 
-%description -l pl
+%description -l pl.UTF-8
 KMenc15 to zaawansowany frontend Qt/KDE dla MEncodera, zasadniczo
 zaprojektowany jako zamiennik VirtualDuba dla Linuksa. Jest
-najbardziej przydatny do modyfikowania i kodowania du¿ych, wysokiej
-jako¶ci plików AVI nagranych z TV. Umo¿liwia ciêcie i ³±czenie na
-dok³adnie podanych ramkach oraz stosowanie dowolnego filtru
-MPlayera/MEncodera z podgl±dem.
+najbardziej przydatny do modyfikowania i kodowania duÅ¼ych, wysokiej
+jakoÅ›ci plikÃ³w AVI nagranych z TV. UmoÅ¼liwia ciÄ™cie i Å‚Ä…czenie na
+dokÅ‚adnie podanych ramkach oraz stosowanie dowolnego filtru
+MPlayera/MEncodera z podglÄ…dem.
 
 %prep
 %setup -q
