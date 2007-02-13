@@ -1,5 +1,5 @@
 Summary:	Advanced Qt/KDE MEncoder frontend
-Summary(pl.UTF-8):   Zaawansowany frontend Qt/KDE dla MEncodera
+Summary(pl.UTF-8):	Zaawansowany frontend Qt/KDE dla MEncodera
 Name:		kmenc15
 Version:	0.04
 Release:	1
